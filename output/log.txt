@@ -1,0 +1,12 @@
+[INFO] 2021-12-09 16:09:22,003 - URL: https://pubmed.ncbi.nlm.nih.gov/?term=IVF&format=abstract&filter=years.2010-2022&size=200
+[INFO] 2021-12-09 16:09:42,122 - Results amount: 16653
+[INFO] 2021-12-09 16:09:42,130 - Total page: 84
+[INFO] 2021-12-09 16:12:11,151 - leftove articles: 15453
+[INFO] 2021-12-09 16:14:40,146 - leftove articles: 14453
+[INFO] 2021-12-09 16:17:09,721 - leftove articles: 13453
+[INFO] 2021-12-09 16:19:36,325 - leftove articles: 12453
+[INFO] 2021-12-09 16:22:03,227 - leftove articles: 11453
+[INFO] 2021-12-09 16:24:35,725 - leftove articles: 10453
+[INFO] 2021-12-09 16:27:07,758 - leftove articles: 9453
+[INFO] 2021-12-09 16:29:39,204 - leftove articles: 8453
+[INFO] 2021-12-09 16:32:11,525 - leftove articles: 7453
