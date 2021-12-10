@@ -1,7 +1,7 @@
 # NCBI pubmed Crawler
 [NCBI pubmed](https://pubmed.ncbi.nlm.nih.gov/) (National Center for Biotechnology Information)
 
-![](imgCrawl-target-example.png)
+![](img/Crawl-target-example.png)
 
 ## How to use 
 **Step 1**: install packages
